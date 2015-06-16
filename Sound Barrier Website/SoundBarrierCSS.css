@@ -1,0 +1,155 @@
+body{
+background-size: cover;
+background:url("Background Collage2.jpg");
+}
+
+.navbar .nav > li > a {
+	font-family:Arial;
+	font-size:20px;
+    color:limegreen;
+	padding-left:105px;
+	
+}
+*{font-family: Arial Bold;
+	font-style: bold;
+}
+
+h2 {
+	color:black;
+	background-color:limegreen;
+}
+.productPreHeader{
+	width:360px;
+	text-align:center;
+	border-radius:1px;
+	cursor:pointer;
+	color:LimeGreen;
+	background-color:black;
+	font-family:arial;
+	font-size:20px;
+	font-weight:bold;
+	font-style: italic;
+	padding:11px 60px;
+}
+.productPre{
+	color:limegreen;
+	background-color:black;
+}
+
+.productList{
+	font-family:Arial;
+	font-size:18px;
+	text-align:left;
+	padding-left:500px;
+}
+
+.productListItem{
+	font-family:Arial;
+	font-size:15px;
+	text-align:left;
+	padding-left:0px;
+}
+h5{
+	width:750px;
+	text-align:center;
+	border-radius:1px;
+	cursor:pointer;
+	color:LimeGreen;
+	background-color:black;
+	font-family:arial;
+	font-size:20px;
+	font-weight:bold;
+	font-style: italic;
+	padding:11px 60px;
+	
+}
+
+h4{
+	width:360px;
+	text-align:center;
+	border-radius:1px;
+	cursor:pointer;
+	color:LimeGreen;
+	background-color:black;
+	font-family:arial;
+	font-size:20px;
+	font-weight:bold;
+	font-style: italic;
+	padding:11px 60px;
+}
+.default{
+	font-family:Arial;
+	font-size:15px;
+}
+
+.panel-success{
+    background-color: #000000;
+    border-color: black;
+}
+.page-header{
+	margin-top:0;
+}
+.panel-body{
+	padding-top:0;
+}
+.featureImg{
+	margin-bottom:15px;
+}
+.article{
+	font-size:18px;
+	color: black;
+	font-weight:bold;
+	font-style:normal;
+	text-decoration: underline;
+	padding-bottom: 5px;
+}
+.articleVideoLayout{
+	border: 3px solid black;
+	border-radius:5px;
+	font-family: Lucida Sans Typewriter;
+	font-style: italic;
+	font-size:15px;
+	color: black;
+}
+.navbar {
+	margin-bottom:0;
+}
+
+.socialMedia{
+padding-left:15px;
+}
+
+.navcontainer ul
+{
+margin: 0;
+padding-bottom: 15px;
+list-style-type: none;
+}
+
+.navcontainer ul li { display: inline; }
+
+.navbar-text{
+	font-family: Lucida Sans Typewriter;
+	font-style: italic;
+	font-size:15px;
+	color: Green;
+}
+.navbar-text-Address{
+	padding-top:15px;
+	font-family: Lucida Sans Typewriter;
+	font-style: italic;
+	font-size:15px;
+	text-align:center-left;
+}
+.paraCenter{
+	padding-left:400px;
+	padding-right:400px;
+	font-family: Arial bold;
+	font-style: italic;
+	font-size:18px;
+	color: black;
+}
+
+.bottomSlogan{
+	padding:5px;
+}
